@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119382696934",
+    "project_id": "studentmanagementapp-cebc5",
+    "storage_bucket": "studentmanagementapp-cebc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119382696934:android:1d58b99a723e917f91ec27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADpHqiEfiqbxWDMqRbClvshoDJE8wR10Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
